@@ -3,7 +3,6 @@
 This project builds and evaluates a machine learning model to classify whether a news headline is clickbait or not. Using an SVC (Support Vector Classifier), the model learns patterns from a labeled dataset of over 30,000 headlines to distinguish between sensational and standard titles. It then uses this model to analyze the prevalence of clickbait in New York Times articles from 1998-2004.
 
 **Project Structure**
-.
 
 ├── README.md
 
