@@ -10,19 +10,7 @@ This project builds and evaluates a machine learning model to classify whether a
 
 ├── clickbait_data.csv                # Main labeled dataset of headlines (clickbait vs. not)
 
-├── 1998.csv                          # NYT article data from 1998
-
-├── 1999.csv
-
-├── 2000.csv
-
-├── 2001.csv
-
-├── 2002.csv
-
-├── 2003.csv
-
-└── 2004.csv
+(The files for the 1998-2004 article data are not included as it is almost 4 GB of data)
 
 
 **Dataset**
