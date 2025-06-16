@@ -4,15 +4,25 @@ This project builds and evaluates a machine learning model to classify whether a
 
 **Project Structure**
 .
+
 ├── README.md
+
 ├── model.ipynb                       # Jupyter notebook with full preprocessing, training, and evaluation
+
 ├── clickbait_data.csv                # Main labeled dataset of headlines (clickbait vs. not)
+
 ├── 1998.csv                          # NYT article data from 1998
+
 ├── 1999.csv
+
 ├── 2000.csv
+
 ├── 2001.csv
+
 ├── 2002.csv
+
 ├── 2003.csv
+
 └── 2004.csv
 
 
